@@ -1,5 +1,6 @@
 <h1> ProjetoControleLoja </h1>
-<p> O objetivo deste Projeto é mostrar para novos programadores como utilizar o sistema linux para desenvolver seus trabalhos. Para isso, vou desenvolver uma pequena aplicação em java para gestão de estoque e venda de produtos</p>
+<h2>Objetio</h2>
+<p>O Objetivo dest Projeto será desenvolver uma aplicação Java para auxiliar pequenos comerciantes no monitoramento de estoque, controle e entrada e saída de capital e commissionamento de funcionários</p>
 
 <h2> Tecnologias a serem utilizadas: </h2>
 <ul>
