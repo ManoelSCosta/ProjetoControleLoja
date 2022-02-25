@@ -4,7 +4,6 @@
 
 <h2> Tecnologias a serem utilizadas: </h2>
 <ul>
-  <li>Sistema operacional: <b>Linux</b> &#128039</li>
   <li>Linguagem de Programação: <b>Java</b> &#127861</li>
   <li>Gerenciador de Banco de Dados: <b>PostgreSQL</b> &#128024</li>
   <li>Framework: <b>SpringBoot</b> &#127811</li>
