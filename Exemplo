@@ -7,5 +7,8 @@ Modelo: OK
 Repositorio de produto: OK
     obterTodos, obterPorId, adicionar, atualizar, deletar
 
-Serviço de produto:
+Serviço de produto: ok
+    obterTodos, obterPorId, adicionar, atualizar, deletar
+    
+Controller de Produto:
     obterTodos, obterPorId, adicionar, atualizar, deletar
