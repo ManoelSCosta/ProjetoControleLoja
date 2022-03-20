@@ -6,7 +6,7 @@ public class ProdutoResponse {
     private String nome;
     private Integer quantidade;
     private Double valor;
-    private String observacao;
+  /*   private String observacao; */
     // #endregion
 
     // #region Getters and Setters
@@ -42,12 +42,12 @@ public class ProdutoResponse {
         this.valor = valor;
     }
 
-    public String getObservacao() {
+  /*   public String getObservacao() {
         return observacao;
     }
 
     public void setObservacao(String observacao) {
         this.observacao = observacao;
-    }
+    } */
     // #endregion
 }

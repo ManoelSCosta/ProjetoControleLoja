@@ -1,4 +1,4 @@
-package br.com.misuras.primeiroexemplo.Handler;
+package br.com.misuras.primeiroexemplo.handler;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

@@ -14,7 +14,8 @@
 	<name>primeiro-exemplo</name>
 	<description>Este projeto tem por objetivo treinar desenvolvimento de API Rest com spring boot</description>
 	<properties>
-		<java.version>8</java.version>
+		<java.version>17
+		</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
